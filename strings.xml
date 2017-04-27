@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileChanger</string>
+    <string name="general">General Code</string>
+    <string name="silent">Silent Code</string>
+    <string name="vibrate">Vibrate Code</string>
+    <string name="edit_general">General</string>
+    <string name="edit_silent">Silent</string>
+    <string name="edit_vibrate">Vibrate</string>
+    <string name="button">Save</string>
+    <string name="desc">Profile changer service</string>
+
+</resources>
